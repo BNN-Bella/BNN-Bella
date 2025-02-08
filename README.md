@@ -1,3 +1,3 @@
-## BNN-Bella
+## Bayesian Low Rank Learning (Bella)
 
 
