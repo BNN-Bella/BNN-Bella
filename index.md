@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages of Bella
 
-Reproduce our results: [GitHub](https://https://github.com/BNN-Bella/BNN-Bella)
+Reproduce our results: [GitHub](https://github.com/BNN-Bella/BNN-Bella)
 
 Check out our paper: [Bayesian Low-Rank LeArning (Bella)](https://arxiv.org/pdf/2407.20891)
 
