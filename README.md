@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of Bella
+## Welcome to GitHub Pages of BNN-Bella
 
 Reproduce our results: [GitHub](https://github.com/afsharshamsi/BNN-Bella/)
 
