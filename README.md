@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages of BNN-Bella
+## BNN-Bella
 
 
