@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of Bayesian Low Rank Learning (Bella)
+## Welcome to GitHub Pages of "Bayesian Low Rank Learning (Bella)"
 
 Reproduce our results: [GitHub](https://github.com/BNN-Bella/BNN-Bella/)
 
