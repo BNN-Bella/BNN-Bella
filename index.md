@@ -18,7 +18,7 @@ Cite our research:
 
 Bayesian learning has demonstrated merits in robustness and resilience to unseen and out-of-distribution inputs, yet its adoption in large-scale tasks remains limited. In particular, deep ensemble methods (Seligmann et al. 2024; Lakshminarayanan, Pritzel, and Blundell 2017) have proven to be highly effective, but they suffer from a high computational cost. This paper introduces an alternative framework that mitigates the computational burden of ensemble Bayesian deep learning. The approach is inspired by the recent success of low-rank adapters and is named Bayesian Low-Rank LeArning (Bella). We show that (1) Bella achieves a dramatic reduction in the number of trainable parameters required to approximate a Bayesian posterior; and (2) it not only maintains, but in some instances surpasses the performance—in accuracy and outof-distribution generalisation—of conventional Bayesian and non-Bayesian methods. An extensive empirical evaluation on large-scale tasks (ImageNet, CAMELYON17, DomainNet, VQA) with CLIP and LLaVA demonstrates the effectiveness and versatility of Bella in building scalable and Bayesian deep models for real-world applications.
 
-### Key Contributions
+#### Key Contributions
 - **Introducing Bella (Bayesian Low-Rank Learning)**: A novel framework designed to reduce the computational burden of ensemble Bayesian deep learning.
 - **Efficiency in Parameter Reduction**: Bella achieves a dramatic reduction in the number of trainable parameters needed to approximate a Bayesian posterior.
 - **Performance Improvement**: Bella maintains or surpasses the performance of conventional Bayesian learning methods and non-Bayesian baselines in terms of accuracy and out-of-distribution generalization.
