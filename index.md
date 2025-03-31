@@ -27,5 +27,5 @@ Bayesian learning has demonstrated merits in robustness and resilience to unseen
 - **Performance Improvement**: Bella maintains or surpasses the performance of conventional Bayesian learning methods and non-Bayesian baselines in terms of accuracy and out-of-distribution generalization.
 - **Empirical Evaluation**: Extensive evaluation on large-scale tasks such as ImageNet, CAMELYON17, DomainNet, VQA with CLIP, and LLaVA, demonstrating the scalability and effectiveness of Bella in real-world applications.
 
-
+---
 
