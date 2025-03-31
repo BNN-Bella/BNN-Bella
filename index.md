@@ -28,6 +28,8 @@ Bayesian learning has demonstrated merits in robustness and resilience to unseen
 - **Empirical Evaluation**: Extensive evaluation on large-scale tasks such as ImageNet, CAMELYON17, DomainNet, VQA with CLIP, and LLaVA, demonstrating the scalability and effectiveness of Bella in real-world applications.
 
 ---
+#### Why Bella?
+
 <img src="https://raw.githubusercontent.com/BNN-Bella/BNN-Bella/main/Figs/fig1-camelyon-ver8.png" alt="Bella Framework" width="500"/>
 
 Train and Test Error (\%) landscapes of CAMELYON17. Training landscape demonstrates the learned 3 particle approximation of the modes of the posterior from a pre-trained model $\boldsymbol\theta$---modification of parameters in the constrained region ($\Delta\boldsymbol\theta$) leads to approaching posterior modes in inference. 
