@@ -30,8 +30,8 @@ Bayesian learning has demonstrated merits in robustness and resilience to unseen
 ---
 <img src="https://raw.githubusercontent.com/BNN-Bella/BNN-Bella/main/Figs/fig1-camelyon-ver8.png" alt="Bella Framework" width="500"/>
 
-### Figure 1: The Bella framework overview.
-This figure illustrates the architecture of the Bella framework, which significantly reduces the computational burden of ensemble Bayesian deep learning while maintaining or surpassing performance.
+Train and Test Error (\%) landscapes of \texttt{CAMELYON17}. Training landscape demonstrates the learned 3 particle approximation of the modes of the posterior from a pre-trained model $\btheta$---modification of parameters in the constrained region ($\Delta\btheta$) leads to approaching posterior modes in inference. 
+Here, we observe a key benefit of our \method approximation compared to a point estimate---while a single parameter particle (e.g. $\btheta +\Delta\btheta_1$) do not generalize well, Bayesian prediction with \cref{eqn: bma}, effectively an average over multiple parameter settings, leads to better performance.
 
 
 
