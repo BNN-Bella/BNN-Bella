@@ -29,3 +29,10 @@ Bayesian learning has demonstrated merits in robustness and resilience to unseen
 
 ---
 
+![Bella Framework](https://github.com/BNN-Bella/BNN-Bella/tree/main/Figuresfig1-camelyon-ver8.pdf
+
+### Figure 1: The Bella framework overview.
+This figure illustrates the architecture of the Bella framework, which significantly reduces the computational burden of ensemble Bayesian deep learning while maintaining or surpassing performance.
+
+
+
