@@ -28,10 +28,11 @@ Bayesian learning has demonstrated merits in robustness and resilience to unseen
 - **Empirical Evaluation**: Extensive evaluation on large-scale tasks such as ImageNet, CAMELYON17, DomainNet, VQA with CLIP, and LLaVA, demonstrating the scalability and effectiveness of Bella in real-world applications.
 
 ---
-<img src="https://github.com/BNN-Bella/BNN-Bella/blob/main/Figures/fig1-camelyon-ver8.pdf" alt="Bella Framework" width="500"/>
+<img src="https://raw.githubusercontent.com/BNN-Bella/BNN-Bella/main/Figures/fig1-camelyon-ver8.pdf" alt="Bella Framework" width="500"/>
 
 ### Figure 1: The Bella framework overview.
 This figure illustrates the architecture of the Bella framework, which significantly reduces the computational burden of ensemble Bayesian deep learning while maintaining or surpassing performance.
+
 
 
 
